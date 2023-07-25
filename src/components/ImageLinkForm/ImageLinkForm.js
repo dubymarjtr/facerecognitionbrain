@@ -11,7 +11,7 @@ const ImageLinkForm = () => {
             </p>
             <div className='pa5 center form'>
                 <input className='f4 pa2 w-70 center' type='text' />
-                <button className='w-30 grow f4 link ph3 pv2 dib white bg-light-purple'>Detect</button>
+                <button className='w-30 grow f4 link ph3 pv2 dib white bg-black'>Detect</button>
             </div>
         </div>
     );
