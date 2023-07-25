@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navigation = () => {
     return (
-        <nav>
+        <nav className='fr'>
             <p className='f3 link dim black underline pa3 pointer'>Sign Out</p>
         </nav>
     );
